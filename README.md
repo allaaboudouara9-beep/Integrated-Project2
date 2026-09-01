@@ -1,3 +1,7 @@
+# Integrated-Project2
+Machine Learning X Data Visualisation
+
+
 # 🛒 Retail Product Recommendation & Customer Transaction Analysis
 
 ## 📌 Project Overview
@@ -461,5 +465,4 @@ Market basket analysis using **Apriori and FP-Growth** identified the same numbe
 Finally, the retail analytics dashboard transformed the analysis into a more accessible visual format. Its simplified controls and visualisations were designed to make the results easier to understand, particularly for users aged 65 and above.
 
 Overall, the project demonstrates how retail businesses can use customer transaction data to better understand purchasing behaviour, generate relevant product recommendations, and support data-driven decision-making. 🛒🤖📊✨
-# Integrated-Project2
-Machine Learning X Data Visualisation
+
